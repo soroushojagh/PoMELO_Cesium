@@ -1,0 +1,24 @@
+.itemContainer{
+    background-color: white;
+    margin: 2px auto;
+    margin-left: 5px;
+    line-height: 1.5;
+    border: 1px solid #eee;
+    box-shadow: 4px 2px 3px #ccc;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
+.itemContainer:hover{
+    background-color: #E1E1DF;
+}
+.textStyle{
+    font-size: 1em;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0.333em 10px;
+    color: #212121;
+    font-weight: bold;
+    text-align: left;
+    font: 9pt/1.5 Arial, Helvetica, sans-serif;
+}

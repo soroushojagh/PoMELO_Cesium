@@ -1,0 +1,47 @@
+.rowC {
+    display: flex;
+    flex-direction: row;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.middlebar {
+    top:56px;
+    position: fixed;
+    float: left;
+    width: 200px;
+    height: 100%;
+    background: #D2D2D8;
+}
+
+.filters {
+    top:56px;
+    position: fixed;
+    float: left;
+    width: 200px;
+    height: 100%;
+    background: lightgray;
+}
+
+.content{
+    position: fixed;
+    top: 56px;
+    bottom: 0;
+    left:200px;
+    right: 0;
+}
+
+.loader{
+    margin-top: -34px;
+    position: absolute;
+    float: inside;
+    z-index: 1;
+}
+
+
+
+

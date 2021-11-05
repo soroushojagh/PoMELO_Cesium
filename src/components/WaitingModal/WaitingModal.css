@@ -1,0 +1,11 @@
+.modalContent h1{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 5px;
+}
+.modalContent p{
+    font-size: 14px;
+    font-weight: 200;
+    margin: 10px;
+}
+
